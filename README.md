@@ -3,7 +3,8 @@
 <p align="center">
   <br><br>
   <img src="https://github.com/alhupe/Portfolio/blob/main/yo.jpg"width="200" height="200">
-  <br><br>Alvaro Huamani, desarrollador de software.
+  <br><br><strong>Alvaro Huamani</strong>
+  <br><br>Desarrollador de software
   <br><br>alvaromhp96@gmail.com
   <br>+34 649 53 66 87
   <br>
@@ -11,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alhupe/Portfolio/blob/main/Alvaro_Huamani_Curriculum.pdf"><strong>Currículum Vitae</strong></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/alhupe/Portfolio/blob/main/Alvaro_Huamani_Curriculum.pdf"><strong>Currículum Vitae</strong></a>
   <br>
   <a href="https://www.linkedin.com/in/alvaro-huamani"><strong>Perfil de LinkedIn</strong></a>
   <br><br><br>
@@ -52,8 +53,8 @@
 
 ---
 
-<img src="https://github.com/alhupe/Portfolio/blob/main/tiendaropa1.jpg" width="300" height="600">
-<img src="https://github.com/alhupe/Portfolio/blob/main/tiendaropa2.jpg" width="300" height="600">
+<img src="https://github.com/alhupe/Portfolio/blob/main/tiendaropa1.jpg" width="450" height="300">
+<img src="https://github.com/alhupe/Portfolio/blob/main/tiendaropa2.jpg" width="450" height="300">
 
 ---
 
@@ -61,7 +62,7 @@
 
 ---
 
-<img src="https://github.com/alhupe/Portfolio/blob/main/fichajes.jpg" width="300" height="600">
+<img src="https://github.com/alhupe/Portfolio/blob/main/fichajes.jpg" width="450" height="300">
 
 ---
 
@@ -69,7 +70,7 @@
 
 ---
 
-<img src="https://github.com/alhupe/Portfolio/blob/main/apppedidos.jpg" width="300" height="600">
+<img src="https://github.com/alhupe/Portfolio/blob/main/apppedidos.jpg" width="450" height="300">
 
 ---
 
@@ -77,7 +78,7 @@
 
 ---
 
-<img src="https://github.com/alhupe/Portfolio/blob/main/calculadora.jpg" width="300" height="600">
+<img src="https://github.com/alhupe/Portfolio/blob/main/calculadora.jpg" width="150" height="300">
 
 ---
 
@@ -85,16 +86,15 @@
 
 ---
 
-<img src="https://github.com/alhupe/Portfolio/blob/main/gesficheros.jpg" width='600' height='400'>
+<img src="https://github.com/alhupe/Portfolio/blob/main/gesficheros.jpg" width='450' height='300'>
 
 ---
 
 ## CRUCIGRAMA Y SOPA DE LETRAS REACT NATIVE
 
----
-
-<img src="https://github.com/alhupe/PortFolio/blob/main/crucigrama.jpg" width='400' height='450'>
-<img src="https://github.com/alhupe/PortFolio/blob/main/sopadeletras.jpg" width='400' height='450'>
+| Crucigrama                                                      | Sopa de Letras                                                      |
+|-----------------------------------------------------------------|---------------------------------------------------------------------|
+| <img src="https://github.com/alhupe/PortFolio/blob/main/crucigrama.jpg" width='150' height='300'> | <img src="https://github.com/alhupe/PortFolio/blob/main/sopadeletras.jpg" width='150' height='300'> |
 
 ---
 
@@ -102,6 +102,6 @@
 
 ---
 
-<img src="https://github.com/alhupe/PortFolio/blob/main/funtogether.jpg" width='400' height='450'>
+<img src="https://github.com/alhupe/PortFolio/blob/main/funtogether.jpg" width='450' height='300'>
 
 ---
