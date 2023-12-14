@@ -2,7 +2,7 @@
 
 <p align="center">
   <br><br>
-  <img src="https://github.com/alhupe/Portfolio/blob/main/yo.jpg"width="200" height="200">
+  <img src="https://github.com/alhupe/Portfolio/blob/main/yo.jpg"width="200" height="250">
   <br><br><strong>Alvaro Huamani</strong>
   <br><br>Desarrollador de software
   <br><br>alvaromhp96@gmail.com
